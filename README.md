@@ -36,7 +36,7 @@ Or else you can do this manually by adding  `node_modules/react-native-watch-con
 Alternatively, if you're using CocoaPods, you can add the following to your Podfile:
 
 ```
-pod 'RNWatch', :path => '../node_modules/react-native-watch-connectivity'
+pod 'RNWatch', :path => '../node_modules/react-native-watch-connectivity/Libraries/RNWatch'
 ```
 
 and run ``pod install``.
